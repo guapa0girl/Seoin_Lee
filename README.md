@@ -1,7 +1,10 @@
 # Introduction
 
-I am a **2nd-year Computer Science** student at **Seoul National University of Science and Technology**.  
-Currently, I am taking the **Open Source Software** class taught by **Professor Choi Sung-rok**.
+**_Welcome to my github page!!!_**
+
+### actually, this page is made by my Open Source Software project
+
+I am a **2nd-year Computer Science** student at **Uni.ST**. I am taking the **Open Source Software** class taught by **Professor Choi**.
 
 > **Go Professor Choi Sung-rok!**  
 > Let's create an amazing project together.
