@@ -2,7 +2,7 @@
 
 **_Welcome to my github page!!!_**
 
-### actually, this page is made by my Open Source Software project
+#### actually, this page is made by my Open Source Software project
 
 I am a **2nd-year Computer Science** student at **Uni.ST**. I am taking the **Open Source Software** class taught by **Professor Choi**.
 
