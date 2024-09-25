@@ -38,7 +38,7 @@ def analyze_data(data_1d):
 
 if __name__ == '__main__':
     
-    data = read_data('/Users/guapa/Desktop/2학년 2학기/OSS/Seoin_Lee/week3/exercise/python02_lab/data/class_score_en.csv')
+    data = read_data('/Users/guapa/Desktop/2학년_2학기/OSS/Seoin_Lee/week3/exercise/python02_lab/data/class_score_en.csv')
     if data and len(data[0]) == 2: # Check 'data' is valid
         average = calc_weighted_average(data, [40/125, 60/100])
 
